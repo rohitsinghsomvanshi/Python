@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analysis Dashboard (1)
+#  Student Performance Analysis Dashboard (1)
 
 A complete Data Analysis and Visualization project built using
 **Python, NumPy, Pandas, Matplotlib, and Seaborn**.
