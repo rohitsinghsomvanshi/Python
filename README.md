@@ -1,9 +1,9 @@
 ## 🎓 Student Performance Analysis Dashboard 
-   Link:<a href=" https://github.com/rohitsinghsomvanshi/Python/blob/main/Proj1/student_data.ipynb" target="_blank"> 
+   [👁️👁️ View Project ] (https://github.com/rohitsinghsomvanshi/Python/blob/main/Proj1/student_data.ipynb) 
    
-  👁️👁️ View Project 
+  
 
-   </a>
+   
 
 A complete Data Analysis and Visualization project built using
 **Python, NumPy, Pandas, Matplotlib, and Seaborn**.
