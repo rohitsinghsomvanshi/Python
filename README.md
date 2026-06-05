@@ -1,5 +1,5 @@
 ## 🎓 Student Performance Analysis Dashboard 
-   👁️👁️ View Project <a href="https://github.com/rohitsinghsomvanshi/Python/blob/main/Proj1/student_data.ipynb">Click</a>
+   👁️👁️ View Project:- <a href="https://github.com/rohitsinghsomvanshi/Python/blob/main/Proj1/student_data.ipynb">Click</a>
    
   
 
